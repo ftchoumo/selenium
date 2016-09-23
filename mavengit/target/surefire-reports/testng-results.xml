@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="108739" started-at="2016-09-23T21:53:35Z" finished-at="2016-09-23T21:55:24Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="108739" started-at="2016-09-23T21:53:35Z" finished-at="2016-09-23T21:55:24Z">
+      <class name="mavengit.test1">
+        <test-method status="PASS" signature="setup()[pri:0, instance:mavengit.test1@6537cf78]" name="setup" is-config="true" duration-ms="12439" started-at="2016-09-23T17:53:35Z" finished-at="2016-09-23T17:53:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="runall()[pri:0, instance:mavengit.test1@6537cf78]" name="runall" duration-ms="96126" started-at="2016-09-23T17:53:47Z" finished-at="2016-09-23T17:55:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runall -->
+        <test-method status="PASS" signature="CloseTime()[pri:0, instance:mavengit.test1@6537cf78]" name="CloseTime" is-config="true" duration-ms="165" started-at="2016-09-23T17:55:24Z" finished-at="2016-09-23T17:55:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseTime -->
+      </class> <!-- mavengit.test1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
